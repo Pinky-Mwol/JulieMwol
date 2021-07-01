@@ -1,4 +1,4 @@
-/* Copyright (C) 2021 plk-dqz.
+/* Copyright (C) 2021 Shahi-ksd.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 WhatsAsenaDuplicated*/
@@ -19,9 +19,9 @@ Asena.addCommand({pattern: 'happymod ?(.*)', fromMe: false, desc: Lang.HMODD_DES
 		const response = await got(url);
 		const json = JSON.parse(response.body);
 		if (response.statusCode === 200) return await message.client.sendMessage(message.jid, 
-		'*📕 ' + Lang.NAMEY +'* ```' + json.result[0].title + '```\n\n' + 
+		'*📒 ' + Lang.NAMEY +'* ```' + json.result[0].title + '```\n\n' + 
 		'*📘 ' + Lang.SIZE +'* ```' + json.result[0].size + '```\n\n\n' + 
-		'*📗 ' + Lang.DOWNLOAD +':* ```' + json.result[0].link + '```\n', MessageType.text);
+		'*📙 ' + Lang.DOWNLOAD +':* ```' + json.result[0].link + '```\n', MessageType.text);
 	} catch {
 		return await message.client.sendMessage(message.jid, Lang.NOT_FOUNDMD, MessageType.text);
 	}
