@@ -186,8 +186,8 @@
             "SONG_DESC": "ningal type cheytha paatt upload cheyth therum.",
             "NEED_TEXT_SONG": "*paattinte per adikku!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*ennikk onnum kandethaan aayilla :(*",
-            "DOWNLOADING_SONG": "\npaatt thappunnu 🤗\n",
-            "UPLOADING_SONG": "\nPaatt Upload 📲 cheyyunnu\n",
+            "DOWNLOADING_SONG": "\nite npaatt Downloading... 🎶\n",
+            "UPLOADING_SONG": "\Nite nPaatt Upload 📀 cheyyunnu...🎧\n",
             "VIDEO_DESC": "YouTubeill nin video download cheyyan.",
             "NEED_VIDEO": "*oru video link theru!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "\n```Downloading...```\n",
@@ -195,7 +195,7 @@
             "YT_DESC": "YouTubeill search cheyyum.",
             "NEED_WORDS": "```search cheyende words type cheyyu!```",
             "GETTING_VIDEOS": "```video link kond verunnu...```",
-            "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
+            "NOT_FOUND": "*Kore noki  kittiyilla ☹️*",
             "SEARCHING": "*🔎 searching...*",
             "WIKI_DESC": "Wikipedia yill search cheyyaan.",
             "IMG_DESC": "googlil chithram search cheyaan.",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "chithram sticker akkaan.",
             "NEED_REPLY": "*photo allenkil chithram reply cheyyu!*",
-            "DOWNLOADING": "```Nissaram 🤠```"
+            "DOWNLOADING": "```Nenpa kittiya pore 🤗```"
         },
         "system_stats": {
             "ALIVE_DESC": "bot working aano enn ariyan",
@@ -212,18 +212,18 @@
         },
         "tagall": {
             "TAGALL_DESC": "groupile ellareyum tag cheyyum.",
-            "ADMİN": "*njan admin allalo..😕!*"
+            "ADMİN": "*njan admin allalo..🙁!*"
         },
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*ningalude bot up-to-date aan!*",
             "NEW_UPDATE": "*JulieMwolk Update und* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
-            "UPDATING": "```Updating..🐥```",
+            "UPDATING": "```👰 Pinky-Mwol Updating...🐣```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
-            "UPDATED": "*Updated 🤠✅*",
+            "UPDATED": "*👰 Pinky-Mwol Updated 🐥💯*",
             "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*👰 julieMwol Restarting ?*"
+            "AFTER_UPDATE": "*👰 Pinky-Mwol Restarting ?*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
@@ -237,12 +237,12 @@
             "HUMI": "Humidity",
             "WIND": "Wind Speed",
             "CLOUD": "Cloud",
-            "NOT_FOUND": "```ingane oru sthalam enikk kandethaan aayilla. 😖```",
-            "QUOTE_DESC": "oru nalla qoute paranj therum 😜 .",
+            "NOT_FOUND": "```ingane oru sthalam enikk kandethaan aayilla. 😤```",
+            "QUOTE_DESC": "oru nalla qoute paranj therum 😝 .",
             "NEED_LOCATIONA": "*Invalid Request*",
             "QUOTE": "Quote:",
             "AUTHOR": "paranjath:",
-            "NOT_FOUNDA": "```Sorry,I could not find a quote. 😖```",
+            "NOT_FOUNDA": "```Sorry,I could not find a quote. 😤```",
             "NAMEY": "per:",
             "PUBLISHER": "Publisher",
             "MODINFO": "ModInfo",
@@ -251,7 +251,7 @@
             "MODD_DESC": "Get modded app details from MODDROID.",
             "HMODD_DESC": "Get modded app details from HappyMod.",
             "NEED_APPNAME": "*Invalid Request,Provide an app name*",
-            "NOT_FOUNDMD": "```Sorry,I could not find such an app.\n Try using .happymod if .modd is not working 😖```",
+            "NOT_FOUNDMD": "```Sorry,I could not find such an app.\n Try using .happymod if .modd is not working 😤```",
             "CM_DESC": "compliment kittaan.",
             "NOT_FOUNDAC": "*thettaaya Request*",
             "CM": "Hey,",
@@ -272,7 +272,7 @@
             "RMLINK": "Read More",
             "NEWS": "News ulladakkam",
             "NEWST": "News Title",
-             "NOT_FOUND": "```eee perril category kittiylla. 😖```",
+             "NOT_FOUND": "```eee perril category kittiylla. 😤```",
             "SONG": "Song",
             "ALBUM": "Album",
             "TITLE": "Title",
