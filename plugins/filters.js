@@ -52,7 +52,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if (!!message.mention && message.mention[0] == '918921483992@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['Mine','Goodbye','Monne','Discount','Thala','Penn','Sad','Tv','Rider','Alone','Self','Boys','Shahi','Joker','Ayn','Ath ann power','Monne ba','Oo','Muthee','Ni power','Umbi','vidhi','Nice','Chank','Pawer','Mindi','Ganam','Bhai','Alamb','Ni matram','Namale','Power','Bgm','Sound','Ponn','Chirikano','night','ok da','WELCOME','Chunk','Nanban','Varum','Feel','friendship','Name','Chunkzz','Admin']
+const array = ['Mine','Goodbye','Monne','Discount','Thala','Penn','Sad','Tv','Rider','alone','Self','Boys','Shahi','Joker','Ayn','Ath ann power','Monne ba','Oo','Muthee','Ni power','Umbi','Vidhi','Nice','Chank','Pawer','Mindi','Ganam','Bhai','Alamb','Ni matram','Namale','Power','Bgm','Sound','Ponn','Chirikano','night','Ok da','WELCOME','Chunk','Nanban','Varum','Feel','friendship','Name','Chunkzz','Admin','Jeevan']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
