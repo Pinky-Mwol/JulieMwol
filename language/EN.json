@@ -27,7 +27,7 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*njan admin alla sir ☹️*",
+            "IM_NOT_ADMIN": "*njan alla admin sir ☹️*",
             "BANNED": "Ni groupil ninnal shariyavila da Ok Bie 👋!",
             "GIVE_ME_USER": "*arelum mention chey muthee 😾!*",
             "ADD_DESC": "Adds someone to the group.",
