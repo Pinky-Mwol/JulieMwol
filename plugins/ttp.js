@@ -174,8 +174,8 @@ Asena.addCommand({pattern: 'txttoimg$', fromMe: wk, desc: desc_msg}, (async (mes
         command_cmd + '```.harry``` \n' + desc_cmd + t26 + '_\n' + usage_cmd + '*.harry Pinky-Mwol*\n\n' +
         command_cmd + '```.cup``` \n' + desc_cmd + t29 + '_\n' + usage_cmd + '*.cup Pinky-Mwol*\n\n' +
         command_cmd + '```.sed``` \n' + desc_cmd + t28 + '_\n' + usage_cmd + '*.sed Pinky-Mwol*\n\n' +
-        command_cmd + '```.glitch``` \n' + desc_cmd + t14 + '_\n' + usage_cmd + '*.glitch Pinky;Mwol*\n\n'
-        command_cmd + '```.cat``` \n' + desc_cmd + t1 + '_\n' + usage_cmd + '*.cat Pinky-Mwol*\n\n'
+        command_cmd + '```.glitch``` \n' + desc_cmd + t14 + '_\n' + usage_cmd + '*.glitch Pinky;Mwol*\n\n' +
+        command_cmd + '```.cat``` \n' + desc_cmd + t1 + '_\n' + usage_cmd + '*.cat Pinky-Mwol*\n\n' +
     await message.client.sendMessage(message.jid,msg, MessageType.text, { quoted: message.data })
 }));
 Asena.addCommand({pattern: 'devil ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
