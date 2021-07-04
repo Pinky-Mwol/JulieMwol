@@ -127,6 +127,7 @@ Asena.addCommand({pattern: 'txttoimg$', fromMe: wk, desc: desc_msg}, (async (mes
     }
     else {
         t1 = 'Makes a Cat Themed Logo.' // https://en.ephoto360.com/handwritten-text-on-foggy-glass-online-680.html
+        t2 = 'Makes a Sed Themed Logo.' // https://en.ephoto360.com/write-text-on-wet-glass-online-589.html
         
     
         
