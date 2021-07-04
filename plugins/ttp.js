@@ -126,7 +126,7 @@ Asena.addCommand({pattern: 'txttoimg$', fromMe: wk, desc: desc_msg}, (async (mes
         t29 = 'Makes a Cup Themed Logo.' // https://photooxy.com/logo-and-text-effects/put-text-on-the-cup-387.html
     }
     else {
-        t1 = 'Makes a Sed Themel Logo.' // https://en.ephoto360.com/write-text-on-wet-glass-online-589.html
+        t1 = 'Makes a Sed Themed Logo.' // https://en.ephoto360.com/write-text-on-wet-glass-online-589.html
     }
     var usage_cmd = ''
     var command_cmd = ''
