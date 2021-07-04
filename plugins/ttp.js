@@ -92,7 +92,7 @@ Asena.addCommand({pattern: 'txttoimg$', fromMe: wk, desc: desc_msg}, (async (mes
         t25 = 'Alev Temalı Logo Yapar.' // https://photooxy.com/logo-and-text-effects/realistic-flaming-text-effect-online-197.html
         t26 = 'Harry Potter Temalı Logo Yapar.' // https://photooxy.com/logo-and-text-effects/create-harry-potter-text-on-horror-background-178.html
         t27 = '4. Bir Neon Temalı Logo Yapar.' // https://photooxy.com/logo-and-text-effects/illuminated-metallic-effect-177.html
-        t28 = 'Mezarlık Temalı Logo Yapar.' // https://photooxy.com/logo-and-text-effects/text-on-scary-cemetery-gate-172.html
+        t28 = 'Mezarlık Temalı Logo Yapar.' // https://en.ephoto360.com/write-text-on-wet-glass-online-589.html
         t29 = 'Kupa Temalı Logo Yapar.' // https://photooxy.com/logo-and-text-effects/put-text-on-the-cup-387.html
     }
     else {
@@ -127,7 +127,7 @@ Asena.addCommand({pattern: 'txttoimg$', fromMe: wk, desc: desc_msg}, (async (mes
     }
     else {
         t1 = 'Makes a Cat Themed Logo.' // https://en.ephoto360.com/handwritten-text-on-foggy-glass-online-680.html
-        t2 = 'Makes a Sed Themed Logo.' // https://en.ephoto360.com/write-text-on-wet-glass-online-589.html
+       
         
     
         
