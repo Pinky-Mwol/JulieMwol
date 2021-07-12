@@ -221,7 +221,7 @@
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating...```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*```Updated```*",
+            "UPDATED": "```Updated```",
             "UPDATED_LOCAL": "*```Successfully Updated!```✅*",
             "AFTER_UPDATE": "*```Restarting```*"
         },
