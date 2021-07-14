@@ -92,7 +92,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Pinky-Mwol](https://github.com/Pinky-Mwol.png?size=100)](https://github.com/Pinky-Mwol |  ![sreezz-ai](https://github.com/sreezz-ai.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Pinky-Mwol](https://github.com/Pinky-Mwol.png?size=100)](https://github.com/Pinky-Mwol) |  ![sreezz-ai](https://github.com/sreezz-ai.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [Pinky-Mwol](https://github.com/Pinky-Mwol)  | [sreezz-ai](https://github.com/sreezz-ai) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
